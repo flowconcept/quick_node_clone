@@ -1,0 +1,10 @@
+{
+  "name": "flowconcept/quick_node_clone",
+  "description": "Quick Node Clone is meant as a way in Drupal 8 to clone nodes. It currently supports cloning of most field types including Inline Entity Form and Field Collection.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/vilepickle/quick_node_clone",
+  "support": {
+    "issues": "https://github.com/vilepickle/quick_node_clone/issues"
+  },
+  "license": "GPL-2.0+"
+}
